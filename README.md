@@ -5,9 +5,9 @@ Bem vindo ao meu perfil do GitHub! Minhas linguagem preferidas são html, css e 
 
 Aqui um pouco sobre mim:
 
-🌟 About Me
-🚀 Quero me tornar um inventor cientista competente.
-❤ Acredito que a empatia e a gentileza pode transformar o mundo para melhor!
+🌟 Sobre mim
+• 🚀 Quero me tornar um inventor cientista competente.
+• ❤ Acredito que a empatia e a gentileza pode transformar o mundo para melhor!
 
 🛠️ Linguagens
-JavaScript, HTML, CSS, MYSQL, C#
+• JavaScript, HTML, CSS, MYSQL, C#
