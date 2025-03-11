@@ -10,4 +10,4 @@ Aqui um pouco sobre mim:
 • ❤ Acredito que a empatia e a gentileza pode transformar o mundo para melhor!
 
 🛠️ Linguagens
-• JavaScript, HTML, CSS, MYSQL, C#, Kotlin(em desenvolvimento), PHP(em desenvolvimento), flutter(em desenvolvimento)
+• JavaScript, HTML, CSS, MYSQL, C#, Kotlin(em desenvolvimento), PHP(em desenvolvimento), flutter(em desenvolvimento), Dart(em desenvolvimento).
